@@ -6,3 +6,4 @@ Now we have the command to see hidden files.
 List the files by numbers.
 Shows the command that makes directorys.
 Move files to another directory.
+Delete files from the current directory.
