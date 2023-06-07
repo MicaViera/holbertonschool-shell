@@ -4,3 +4,4 @@ The second script contains the command to list the contents of your currentdirec
 The third one "There is no place like home" shows how to change directory.List long format files.
 Now we have the command to see hidden files.
 List the files by numbers.
+Shows the command that makes directorys.
