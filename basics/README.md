@@ -7,3 +7,4 @@ List the files by numbers.
 Shows the command that makes directorys.
 Move files to another directory.
 Delete files from the current directory.
+Delete an entire directory.
