@@ -8,3 +8,4 @@ Shows the command that makes directorys.
 Move files to another directory.
 Delete files from the current directory.
 Delete an entire directory.
+The command for changing the direcory to the previous one.
