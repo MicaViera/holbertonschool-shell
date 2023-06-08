@@ -11,3 +11,4 @@ Delete an entire directory.
 The command for changing the direcory to the previous one.
 Show the type o file in another directory.
 We can create a symbolic link.
+The command to copy html files.
