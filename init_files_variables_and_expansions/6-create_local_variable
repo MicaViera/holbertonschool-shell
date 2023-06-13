@@ -1,2 +1,2 @@
 #!/bin/bash
-var BEST="School" | grep
+var BEST="School" | grep 'BEST'
