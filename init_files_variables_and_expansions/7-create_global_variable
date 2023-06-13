@@ -1,2 +1,2 @@
 #!/bin/bash
-env Best=School
+set BEST="School"
